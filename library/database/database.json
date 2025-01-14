@@ -1,0 +1,27 @@
+{
+  "users": {
+    "6285372277748@s.whatsapp.net": {
+      "status_deposit": false,
+      "saldo": 0
+    },
+    "120363302459462822@newsletter": {
+      "status_deposit": false,
+      "saldo": 0
+    },
+    "6285272829520@s.whatsapp.net": {
+      "status_deposit": false,
+      "saldo": 0
+    }
+  },
+  "groups": {},
+  "database": {},
+  "settings": {
+    "anticall": true,
+    "autobio": false,
+    "autoread": true,
+    "autopromosi": false,
+    "autotyping": false,
+    "readsw": false,
+    "button": true
+  }
+}

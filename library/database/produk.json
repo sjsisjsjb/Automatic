@@ -1,0 +1,77 @@
+{
+  "panel": [
+    {
+      "nama": "1gb",
+      "ram": 1000,
+      "disk": 1000,
+      "cpu": 30,
+      "harga": 1000
+    },
+    {
+      "nama": "2gb",
+      "ram": 2000,
+      "disk": 2000,
+      "cpu": 60,
+      "harga": 2000
+    },
+    {
+      "nama": "3gb",
+      "ram": 3000,
+      "disk": 3000,
+      "cpu": 90,
+      "harga": 3000
+    },
+    {
+      "nama": "4gb",
+      "ram": 4000,
+      "disk": 4000,
+      "cpu": 120,
+      "harga": 4000
+    },
+    {
+      "nama": "5gb",
+      "ram": 5000,
+      "disk": 5000,
+      "cpu": 150,
+      "harga": 5000
+    },
+     {
+      "nama": "6gb",
+      "ram": 6000,
+      "disk": 6000,
+      "cpu": 180,
+      "harga": 6000
+    }
+  ],
+  "vps": [
+    {
+      "id": 1,
+      "nama": "2gb ram 1gb cpu",
+      "ram": "2GB",
+      "cpu": 1,
+      "harga": 2000,
+      "image": "s-1vcpu-2gb"
+    },
+    {
+      "id": 2,
+      "nama": "2gb ram 2gb cpu",
+      "ram": "2GB",
+      "cpu": 2,
+      "harga": 3000,
+      "image": "s-2vcpu-2gb"
+    },
+     {
+      "id": 3,
+      "nama": "4gb ram 2gb cpu",
+      "ram": "4GB",
+      "cpu": 2,
+      "harga": 4000,
+      "image": "s-2vcpu-4gb"
+    }
+  ],
+  "adp": [
+    {
+      "harga": 200
+    }
+  ]
+}
